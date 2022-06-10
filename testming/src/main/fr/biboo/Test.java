@@ -1,9 +1,14 @@
 package main.fr.biboo;
 
+/**
+ * Ajout d'un commentaire
+ */
 public class Test {
 
     public static void main(String args[]) {
-        System.out.println("Hello World");
+        // Commentaire
+        System.out.println("Hello World !");
+
     }
 
 }
